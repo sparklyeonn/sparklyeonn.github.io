@@ -43,3 +43,14 @@ body {
   #Mis-trabajos {
     background-color: #c61ec6;
   }
+
+  .button {
+    border: 1px solid #790b7f; /*anchura, estilo y color borde*/
+    padding: 10px; /*espacio alrededor texto*/
+    background-color: #43536e; /*color botón*/
+    color: #ffffff; /*color texto*/
+    text-decoration: none; /*decoración texto*/
+    text-transform: uppercase; /*capitalización texto*/
+    font-family: 'Helvetica', sans-serif; /*tipografía texto*/
+    border-radius: 50px; /*bordes redondos*/    
+  }
