@@ -54,3 +54,7 @@ body {
     font-family: 'Helvetica', sans-serif; /*tipografía texto*/
     border-radius: 50px; /*bordes redondos*/    
   }
+
+  .bg-info {
+    background-color: #c61ec6;
+  }
