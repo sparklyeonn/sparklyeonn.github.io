@@ -45,9 +45,9 @@ body {
   }
 
   .button {
-    border: 1px solid #790b7f; /*anchura, estilo y color borde*/
+    border: 1px solid #000000; /*anchura, estilo y color borde*/
     padding: 10px; /*espacio alrededor texto*/
-    background-color: #43536e; /*color botón*/
+    background-color: #70126f; /*color botón*/
     color: #ffffff; /*color texto*/
     text-decoration: none; /*decoración texto*/
     text-transform: uppercase; /*capitalización texto*/
