@@ -12,6 +12,11 @@ body {
     text-decoration: underline;
   }
   
+ /* Sobre mi section */
+ .display-3 .fw-bold .my-4 {
+    color: rgb(111, 56, 111);
+ }
+
   /* Contacto */
   
   #Contacto form label {
