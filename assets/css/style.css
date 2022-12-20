@@ -17,6 +17,11 @@ body {
     color: rgb(111, 56, 111);
  }
 
+ .DESAFIO1 {
+    width: 20%;
+    height: 20%;
+ }
+
   /* Contacto */
   
   #Contacto form label {
