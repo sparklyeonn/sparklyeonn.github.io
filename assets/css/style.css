@@ -61,3 +61,7 @@ body {
   .bg-info {
     background-color: #c61ec6;
   }
+
+  .nav-link {
+    text-shadow: #fff 0 0 10px;
+  }
