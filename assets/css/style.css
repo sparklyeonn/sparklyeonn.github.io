@@ -15,6 +15,11 @@ body {
     background-size: cover;
     background-position: left;
 }
+
+p.p-header{
+    color: #642d64;
+}
+
   
  /* Sobre mi section */
  .display-3 .fw-bold .my-4 {
